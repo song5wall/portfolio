@@ -63,3 +63,26 @@
 </div>
 </details>
 
+## Qize
+
+<img width="252" height="183" alt="{C5CD7AEB-CD26-4FBE-B756-2A24BC1234F3}" src="https://github.com/user-attachments/assets/2466de10-5b41-4e21-af24-9fd4bf3fe855" />
+
+<img width="250" height="152" alt="{49E7F0BB-6DB2-44D5-B2DD-87C4C5786BB8}" src="https://github.com/user-attachments/assets/962f6d31-daeb-4bcf-a70b-b712ad9f5770" />
+
+<img width="253" height="116" alt="{DF1F0879-9BA1-4961-85BF-ADE3488FC4F7}" src="https://github.com/user-attachments/assets/dd4fd0d5-7fcf-40df-b145-15955de1009a" />
+
+## 02-1 0과 1로 숫자를 표현하는 방법
+### 정보 단위
+### 이진법
+### 십육진법
+
+## 02-2 0과 1로 문자를 표현하는 방법
+### 문자집합
+> 컴퓨터가 인식하고 표현할 수 있는 문자 모음
+
+### 문자 인코딩
+> 문자를 0과 1로 변환
+### 문자 디코딩
+> 0과 1을 문자로 변환
+
+### 아스키 코드 (ASCII)
