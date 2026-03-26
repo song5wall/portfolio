@@ -10,9 +10,9 @@
 
 <br>**CPU**<br>
 > 메모리에 저장된 명령어 읽기, 실행
-- 산술논리연산장치(ALU, Arithmetic Logic Unit) : 계산만 실행
-- 레지스터(register) : 작은 임시 저장장치
-- 제어장치(CU, Control Unit) : 제어신호(메모리 읽기, 쓰기)를 내보내고, 명령어 해석
+- **산술논리연산장치**(ALU, Arithmetic Logic Unit) : 계산만 실행
+- **레지스터**(register) : 작은 임시 저장장치
+- **제어장치**(CU, Control Unit) : *제어신호*(메모리 읽기, 쓰기)를 내보내고, 명령어 해석
 <details>
 <summary>메모리 읽기</summary>
 <div markdown="1">
@@ -38,24 +38,26 @@
 > 컴퓨터 외부에 연결, 컴퓨터 내부와 정보 교환
 
 <br>**###+ 메인보드(마더보드), 시스템버스**<br>
-> 컴퓨터의 핵심 부품(CPU, 메모리, 보조기억장치, 입출력장치)은 모두 메인보드에 연결
+> 컴퓨터의 핵심 부품(CPU, 메모리, 보조기억장치, 입출력장치)은 모두 *메인보드*에 연결<br>
+
 > 시스템 버스 : 컴퓨터의 핵심 부품들이 서로 정보를 주고 받는 통로
+
 <details>
-<summary>주소버스</summary>
+<summary>주소 버스</summary>
 <div markdown="1">
 주소를 주고 받는 버스
 </div>
 </details>
   
 <details>
-<summary>데이터버스</summary>
+<summary>데이터 버스</summary>
 <div markdown="1">
 명령어와 데이터를 주고 받는 버스
 </div>
 </details>
 
 <details>
-<summary>제어버스</summary>
+<summary>제어 버스</summary>
 <div markdown="1">
 제어 신호(읽기, 쓰기)를 주고 받는 버스
 </div>
